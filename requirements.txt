@@ -1,0 +1,13 @@
+langgraph
+langgraph-checkpoint-sqlite
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-chroma
+langchain-huggingface
+chromadb
+sentence-transformers
+python-dotenv
+pypdf
+tiktoken
